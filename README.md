@@ -40,7 +40,7 @@ I was born in **South Africa** and currently live in **Lisbon, Portugal**.
 
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omeir2404&show_icons=true&locale=en)-->
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=omeir2404&show_icons=true&locale=en&layout=compact)
+<!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=omeir2404&show_icons=true&locale=en&layout=compact)-->
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=omeir2404&theme=juicyfresh&no-bg=true)
 
