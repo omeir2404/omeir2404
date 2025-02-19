@@ -38,7 +38,7 @@ I was born in **South Africa** and currently live in **Lisbon, Portugal**.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omeir2404&show_icons=true&locale=en)
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omeir2404&show_icons=true&locale=en)-->
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=omeir2404&show_icons=true&locale=en&layout=compact)
 
@@ -50,12 +50,13 @@ I was born in **South Africa** and currently live in **Lisbon, Portugal**.
 
 ![my Github Stats](https://github-readme-stats.vercel.app/api?username=omeir2404&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40)
 
-![Metrics](https://metrics.lecoq.io/omeir2404?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+<!--![Metrics](https://metrics.lecoq.io/omeir2404?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)-->
+
 <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omeir2404)-->
 
-![ovi](https://github-readme-stats.vercel.app/api/top-langs?username=omeir2404&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
+![ovi](https://github-readme-stats.vercel.app/api/top-langs?username=omeir2404&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)-
 
-![reimaginedreadme](https://myreadme.vercel.app/api/embed/omeir2404?panels=userstatistics,toprepositories,toplanguages,commitgraph)
+<!--![reimaginedreadme](https://myreadme.vercel.app/api/embed/omeir2404?panels=userstatistics,toprepositories,toplanguages,commitgraph)-->
 
 <!--* Use below to add Best Project  *-->
 
@@ -85,12 +86,12 @@ I was born in **South Africa** and currently live in **Lisbon, Portugal**.
 </table>
 -->
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=omeir2404&theme=react-dark&hide_border=true&area=true)
+<!--![Contribution](https://activity-graph.herokuapp.com/graph?username=omeir2404&theme=react-dark&hide_border=true&area=true)-->
 
 
-![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
+<!--![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)-->
 
-name: Contribution snake
+<!--name: Contribution snake
 
 on:
   schedule: # execute every 12 hours
@@ -113,7 +114,7 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}-->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=omeir2404&label=Profile%20views&color=1a5fb4&style=flat)
 
