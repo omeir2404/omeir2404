@@ -35,9 +35,9 @@ I was born in **South Africa** and currenty live in **Lisbon, Portugal**.
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=omeir2404&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=omeir2404&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omeir2404" alt="GitHub Trophies" /></a></p>
-<p>**<img align="center" src="https://github-readme-streak-stats.demolab.com?user=omeir2404" alt="GitHub Streak" />**</p>
+<p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=omeir2404&theme=tokyonight" alt="GitHub Streak" /></a></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omeir2404&label=Profile%20views&color=1a5fb4&style=flat" alt="omeir2404" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omeir2404&label=Profile%20views&color=1a5fb4&style=flat" alt="profile views" /> </p>
 
 
 ## ⚡ Fun Fact
