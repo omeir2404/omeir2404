@@ -37,6 +37,8 @@ I was born in **South Africa** and currently live in **Lisbon, Portugal**.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/omeir2404/)
 
 ## 📊 GitHub Stats
+![Profile Views](https://komarev.com/ghpvc/?username=omeir2404&label=Profile%20views&color=1a5fb4&style=flat)[![Followers](https://img.shields.io/github/followers/omeir2404?label=Followers&style=social)](https://github.com/omeir2404?tab=followers) [![Stars](https://img.shields.io/github/stars/omeir2404?label=Stars)](https://github.com/omeir2404/stargazers)
+
 
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omeir2404&show_icons=true&locale=en)-->
 
@@ -116,11 +118,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}-->
 
-![Profile Views](https://komarev.com/ghpvc/?username=omeir2404&label=Profile%20views&color=1a5fb4&style=flat)
-
-[![Followers](https://img.shields.io/github/followers/omeir2404?label=Followers&style=social)](https://github.com/omeir2404?tab=followers)
-
-[![Stars](https://img.shields.io/github/stars/omeir2404?label=Stars)](https://github.com/omeir2404/stargazers)
 
 <!-- use below for stars in a certain repo(can be reused) -->
 
