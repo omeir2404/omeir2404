@@ -48,7 +48,8 @@ I was born in **South Africa** and currently live in **Lisbon, Portugal**.
 
 
 <!--![GitHub Streak](https://streak-stats.demolab.com?user=omeir2404) -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=omeir2404)](https://git.io/streak-stats)
+<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=omeir2404)](https://git.io/streak-stats)-->
+[![GitHub Streak](https://streak-stats.demolab.com?user=omeir2404&theme=tokyonight-duo)](https://git.io/streak-stats)
 
 ![my Github Stats](https://github-readme-stats.vercel.app/api?username=omeir2404&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40)
 
