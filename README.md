@@ -24,7 +24,7 @@ I bridge the gap between low-level architecture and modern web development.
 **Advanced Common Core (Systems & Network Focus)**
 * **Status:** Completed all 17 Common Core projects with full marks.
 * **Focus:** Low-level algorithms, memory management, process control, and virtualization.
-* **Key Achievements:** Earned **106%** on the full-stack *Transcendence* project and **105%** on the *so_long* graphics engine.
+* **Key Achievements:** Earned **106%** on the full-stack *Transcendence* project and **103%** on the *cub3d* raycasting engine.
 
 ---
 
@@ -37,11 +37,13 @@ I bridge the gap between low-level architecture and modern web development.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="Haskell" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg" alt="OpenGL" width="40" height="40"/>
 
 **Web & Database:**  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="Vite" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
@@ -52,6 +54,7 @@ I bridge the gap between low-level architecture and modern web development.
 <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="Blender" width="40" height="40"/>
 
 ---
 
@@ -59,9 +62,9 @@ I bridge the gap between low-level architecture and modern web development.
 
 | Project | Description | Tech Stack | Grade |
 | :--- | :--- | :--- | :--- |
-| **[ft_transcendence](https://github.com/omeir2404/ft_transcendence)** | Real-time multiplayer Pong game with chat, authentication, and tournaments. | `TypeScript` `NestJS` `Docker` | **106%** |
+| **[ft_transcendence](https://github.com/omeir2404/42_transcendence)** | Real-time multiplayer Pong game with chat, authentication, and tournaments. | `TypeScript` `NestJS` `Docker` | **106%** |
 | **[minishell](https://github.com/omeir2404/minishell)** | A custom recreation of the Bash shell. Handles pipes, forks, and signals. | `C` `Unix Processes` | **101%** |
-| **[so_long](https://github.com/omeir2404/so_long)** | 2D Graphics engine and game built from scratch without game libraries. | `C` `MiniLibX` `Algorithms` | **105%** |
+| **[cub3d](https://github.com/omeir2404/cub3d)** | A 3D graphical engine using raycasting (Wolfenstein 3D style) built from scratch. | `C` `Raycasting` `MiniLibX` | **103%** |
 | **[Inception](https://github.com/omeir2404/inception)** | System administration project setting up a virtualized infrastructure. | `Docker` `NGINX` `MariaDB` | **100%** |
 
 ---
